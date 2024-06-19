@@ -35,7 +35,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "actioncable": "^5.2.0"
+    "actioncable": "git+https://github.com/sdgroup14/actioncable.git"
   },
   "peerDependencies": {
     "@angular/core": ">2.4.10",
