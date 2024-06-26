@@ -1,0 +1,55 @@
+{
+  "_args": [
+    [
+      "actioncable@5.2.8",
+      "D:\\Projects\\system-ng7"
+    ]
+  ],
+  "_from": "actioncable@5.2.8",
+  "_id": "actioncable@5.2.8",
+  "_inBundle": false,
+  "_integrity": "sha512-M/CfC7qDT7tux8B0BNYPek+aCw6OjB78K9l978Ff94U8v6+G9LOVCEnSFg4gxdAboRV8KTy9eTK3Wxbry4SXJA==",
+  "_location": "/actioncable",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "actioncable@5.2.8",
+    "name": "actioncable",
+    "escapedName": "actioncable",
+    "rawSpec": "5.2.8",
+    "saveSpec": null,
+    "fetchSpec": "5.2.8"
+  },
+  "_requiredBy": [
+    "/angular2-actioncable"
+  ],
+  "_resolved": "https://registry.npmjs.org/actioncable/-/actioncable-5.2.8.tgz",
+  "_spec": "5.2.8",
+  "_where": "D:\\Projects\\system-ng7",
+  "author": {
+    "name": "David Heinemeier Hansson",
+    "email": "david@loudthinking.com"
+  },
+  "bugs": {
+    "url": "https://github.com/rails/rails/issues"
+  },
+  "description": "WebSocket framework for Ruby on Rails.",
+  "files": [
+    "lib/assets/compiled/*.js"
+  ],
+  "homepage": "http://rubyonrails.org/",
+  "keywords": [
+    "websockets",
+    "actioncable",
+    "rails"
+  ],
+  "license": "MIT",
+  "main": "lib/assets/compiled/action_cable.js",
+  "name": "actioncable",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rails/rails.git"
+  },
+  "version": "5.2.8"
+}
