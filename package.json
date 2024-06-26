@@ -34,14 +34,12 @@
     "email": "nolancaster@gmail.com"
   },
   "license": "MIT",
-  "dependencies": {
-    "actioncable": "file:local_modules/actioncable"
-  },
   "peerDependencies": {
     "@angular/core": ">2.4.10",
     "rxjs": ">6.0.0 <6.3.3"
   },
   "devDependencies": {
+    "actioncable": "file:local_modules/actioncable",
     "@angular/compiler": "^6.0.0",
     "@angular/compiler-cli": "^6.0.0",
     "@angular/core": "^6.0.0",
