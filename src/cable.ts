@@ -1,4 +1,4 @@
-import * as ActionCableNs from 'actioncable';
+import * as ActionCableNs from 'ActionCable';
 import { Observable, Subject } from 'rxjs';
 import { debounceTime } from 'rxjs/operators';
 
